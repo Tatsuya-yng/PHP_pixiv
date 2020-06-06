@@ -20,6 +20,7 @@ FILTER_VALIDATE_INT);
 <!DOCTYPE html>
 <title>干支計算機</title>
 <h1>干支計算機</h1>
+  <h2>田中達也用</h2>
 <?php if (empty($year)): ?>
     <p>数字を入力してください</p>
     <form method="get">
